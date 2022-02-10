@@ -56,12 +56,10 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.development
-.env.production
 
 # next.js build output
 .next
 
 # Template files
 *.template.*
+config.bat
